@@ -80,4 +80,4 @@ All unsafe code execution is prevented — no eval() is used.
 Afzal Shah
 AI Intern | Machine Learning Enthusiast | CS Student
 📍 NCAI-UET Lahore
-📧 [Your Email or LinkedIn if you'd like to add]
+📧 syedafzal.career59@gmail.com
